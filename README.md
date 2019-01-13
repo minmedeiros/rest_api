@@ -1,4 +1,3 @@
-
 # Simple Rest API on Python
 
 This simple project was created for testing Rest API backend on Python 3
@@ -15,7 +14,7 @@ There should also be an interface
 Etc...
 But, as I mentioned, this is supposed to be a simple project for testing Rest API
 
-### Prerequisites
+## Prerequisites
 
 You need to have Python 3 installed and the mentioned libraries
 
